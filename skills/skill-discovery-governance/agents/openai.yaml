@@ -1,0 +1,6 @@
+interface:
+  display_name: "Skill 命中率治理"
+  short_description: "审查并提升 Codex 技能发现与路由准确度"
+  default_prompt: "Use $skill-discovery-governance to audit Codex skill discovery and routing."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI时代核心能力积累"
+  short_description: "AI时代核心能力训练、需求洞察、质量验收、审美积累与复盘"
+  default_prompt: "Use $ai-core-capabilities to apply the product judgment, quality, aesthetic, and learning checklist."
+policy:
+  allow_implicit_invocation: true

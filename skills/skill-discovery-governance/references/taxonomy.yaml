@@ -1,0 +1,80 @@
+categories:
+  workflow-governance:
+    title: "工作流与治理"
+    skills:
+      - brainstorming
+      - codex-task-routing
+      - diagnosing-superpowers
+      - dispatching-parallel-agents
+      - executing-plans
+      - grill-me
+      - ai-core-capabilities
+      - book-to-skill
+      - Project-Governor
+      - skill-discovery-governance
+      - subagent-driven-development
+      - SuperPowers
+      - using-git-worktrees
+      - using-superpowers
+      - writing-plans
+      - writing-skills
+  full-stack-application-development:
+    title: "全栈应用开发"
+    skills:
+      - vue-django-mysql-fullstack
+  engineering-quality:
+    title: "工程质量与调试"
+    skills:
+      - Code-Map
+      - diagnose
+      - receiving-code-review
+      - requesting-code-review
+      - systematic-debugging
+      - test-driven-development
+      - verification-before-completion
+  web-ui-visualization:
+    title: "Web、界面与可视化"
+    skills:
+      - high-end-web-design
+      - ui-design-system
+      - visual-dashboard-pipeline
+  docs-knowledge-expression:
+    title: "文档、知识与表达"
+    skills:
+      - caveman
+      - Humanizer-zh
+      - markitdown
+  research-academic:
+    title: "网络与学术研究"
+    skills:
+      - Agent-Reach
+      - nature-academic-search
+      - nature-citation
+      - nature-data
+      - nature-downloader
+      - nature-experiment-log
+      - nature-figure
+      - nature-literature-pipeline
+      - nature-paper-card
+      - nature-paper-to-patent
+      - nature-paper-trans
+      - nature-paper2ppt
+      - nature-polishing
+      - nature-proposal-writer
+      - nature-reader
+      - nature-ref-verifier
+      - nature-response
+      - nature-reviewer
+      - nature-shared
+      - nature-statistics
+      - nature-writing
+  presentations-editable-slides:
+    title: "演示文稿与可编辑幻灯片"
+    skills:
+      - codeximage-to-editable-ppt-v2-1
+      - codeximage-to-editable-ppt-v2-2
+      - nature-image2ppt
+archives:
+  title: "旧说明包（不可调用 Skill）"
+  directories:
+    - web-dev-skills

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Vue Django MySQL 全栈开发"
+  short_description: "使用 Vue 3、Django REST Framework 和 MySQL 开发通用全栈项目"
+  default_prompt: "Use $vue-django-mysql-fullstack for a general-purpose Vue 3 + Django REST Framework + MySQL project."
+policy:
+  allow_implicit_invocation: true

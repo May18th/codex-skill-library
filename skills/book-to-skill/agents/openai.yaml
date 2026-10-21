@@ -1,0 +1,6 @@
+interface:
+  display_name: "Book to Skill"
+  short_description: "从合法书籍材料提炼并验证可复用方法论"
+  default_prompt: "Use $book-to-skill to turn a book’s applicable methods into a tested, original Codex Skill."
+policy:
+  allow_implicit_invocation: true

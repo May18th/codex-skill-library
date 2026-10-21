@@ -1,0 +1,33 @@
+# Codex runtime data
+sessions/
+log/
+secrets/
+mcp-oauth-locks/
+memories/
+plugins/
+browser/
+attachments/
+sqlite/
+tmp/
+node_repl/
+thread-writer-locks/
+project-metadata-locks/
+
+# Local and generated files
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.token
+*secret*
+*credential*
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+.DS_Store
+Thumbs.db
